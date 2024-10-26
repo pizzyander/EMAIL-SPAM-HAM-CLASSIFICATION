@@ -51,6 +51,7 @@ If you'd like to request a new function, feel free to do so by opening an [issue
 
 ### TECHNOLOGY USED
 ### TEAM
+AKINFE ADESANMI THOMAS
 ![AKINFE ADESANMI](https://github.com/user-attachments/assets/92f1721e-ab4c-428b-8b7d-48ffef1cea4b)
 
 ### LICENSE
