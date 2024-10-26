@@ -1,20 +1,20 @@
 `# EMAIL-SPAM-HAM-CLASSIFICATION
 
 ##TABLE OF CONTENT
-Demo
-Overview
-Motivation
-Technical Aspect
-Installation
-Run
-Deployement on Heroku
-Directory Tree
-To Do
-Bug / Feature Request
-Technologies Used
-Team
-License
-Credits
+* Demo
+* Overview
+* Motivation
+* Technical Aspect
+* Installation
+* Run
+* Deployement on Heroku
+* Directory Tree
+* To Do
+* Bug / Feature Request
+* Technologies Used
+* Team
+* License
+* Credits
 
 ### DEMO
 Link: https://ebb8b4b2-83ff-495c-b7ba-642c48fd3086-00-3je7c51leuy1s.riker.replit.dev/
