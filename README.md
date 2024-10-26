@@ -31,11 +31,24 @@ I began my python language learning sessions in june 2023, i was busy learning d
 ### RUN
 ###DEPLOYMENT ON HEROKU
 ### DIRECTORY TREE
+'''
+project/
+│
+├── main.py            
+├── model/
+│     ├── model.pkl
+│     └── tfidf_vectorizer.pkl
+├── templates/
+│     └── index.html
+└── .replit
+
+'''
 ### TO-DO
 ### BUG/ FEATURE REQUEST
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/pizzyander/EMAIL-SPAM-HAM-CLASSIFICATION/issues) here by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an [issue](https://github.com/pizzyander/EMAIL-SPAM-HAM-CLASSIFICATION/issues) here.
+
 ### TECHNOLOGY USED
 ### TEAM
 ### LICENSE
