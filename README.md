@@ -22,7 +22,7 @@ Credits
 This is a simple email classification Flask app trained on Logistic Regression. The trained model takes an email text as an input and classification is done to identify spam and ham emails. 
 
 ### MOTIVATION
-I began my python language learning sessions in june 2023, i was busy learning different parts of python only to end up forgetting because i was not applying the knowledge. This is a remedy to that Challenge. This is my first Machine learning Project and I just came to the realization that i can do a lot with the knowledge that i've been accumulating. let's get to it.  
+I began my python language learning sessions in june 2023, i was busy learning different parts of python only to end up forgetting because i was not applying the knowledge and this project is a remedy to that Challenge. I watched a couple of youtube videos and did some research on Chatgpt.  This is my first Machine learning Project and I just came to the realization that i can do a lot with the knowledge that i've been accumulating. let's get to it.  
 
 ### TECHNICAL ASPECT
 
@@ -30,7 +30,7 @@ I began my python language learning sessions in june 2023, i was busy learning d
 ### INSTALLATION
 ### RUN
 ###DEPLOYMENT ON HEROKU
-### DIRECTORY TREE
+### PROJECT DIRECTORY TREE 
 '''
 project/  
 │  
@@ -43,15 +43,16 @@ project/
 └── .replit  
 
 '''
-### TO-DO
-### BUG/ FEATURE REQUEST
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/pizzyander/EMAIL-SPAM-HAM-CLASSIFICATION/issues) here by including your search query and the expected result.
+### TO-DO  
+### BUG/ FEATURE REQUEST  
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/pizzyander/EMAIL-SPAM-HAM-CLASSIFICATION/issues) here by including your search query and the expected result.  
 
-If you'd like to request a new function, feel free to do so by opening an [issue](https://github.com/pizzyander/EMAIL-SPAM-HAM-CLASSIFICATION/issues) here.
+If you'd like to request a new function, feel free to do so by opening an [issue](https://github.com/pizzyander/EMAIL-SPAM-HAM-CLASSIFICATION/issues) here.  
 
 ### TECHNOLOGY USED
 ### TEAM
 ![AKINFE ADESANMI](["C:\Users\PIZZY\Downloads\IMG_6233.jpg"](https://photos.app.goo.gl/uMNor2NykrgyYPmA7))
 ### LICENSE
 ### CREDIT
+
 ### DEMO
