@@ -32,15 +32,15 @@ I began my python language learning sessions in june 2023, i was busy learning d
 ###DEPLOYMENT ON HEROKU
 ### DIRECTORY TREE
 '''
-project/
-│
-├── main.py            
-├── model/
-│     ├── model.pkl
-│     └── tfidf_vectorizer.pkl
-├── templates/
-│     └── index.html
-└── .replit
+project/  
+│  
+├── main.py           
+├── model/  
+│     ├── model.pkl  
+│     └── tfidf_vectorizer.pkl  
+├── templates/  
+│     └── index.html  
+└── .replit  
 
 '''
 ### TO-DO
