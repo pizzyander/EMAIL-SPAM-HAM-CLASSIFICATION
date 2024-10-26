@@ -51,7 +51,7 @@ If you'd like to request a new function, feel free to do so by opening an [issue
 
 ### TECHNOLOGY USED
 ### TEAM
-![AKINFE ADESANMI]("C:\Users\PIZZY\Downloads\IMG_6233.jpg")
+![AKINFE ADESANMI](["C:\Users\PIZZY\Downloads\IMG_6233.jpg"](https://photos.app.goo.gl/uMNor2NykrgyYPmA7))
 ### LICENSE
 ### CREDIT
 ### DEMO
