@@ -17,6 +17,8 @@ License
 Credits
 
 ### DEMO
+Link: https://ebb8b4b2-83ff-495c-b7ba-642c48fd3086-00-3je7c51leuy1s.riker.replit.dev/
+![CLASSIFIER DEMO](https://github.com/user-attachments/assets/e8d67dfe-554b-40d2-a6d8-7ec8f2ec122e)
 
 ###  OVERVIEW
 This is a simple email classification Flask app trained on Logistic Regression. The trained model takes an email text as an input and classification is done to identify spam and ham emails. 
