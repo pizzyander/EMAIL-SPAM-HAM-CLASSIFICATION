@@ -51,6 +51,7 @@ If you'd like to request a new function, feel free to do so by opening an [issue
 
 ### TECHNOLOGY USED
 ### TEAM
+![AKINFE ADESANMI]("C:\Users\PIZZY\Downloads\IMG_6233.jpg")
 ### LICENSE
 ### CREDIT
 ### DEMO
