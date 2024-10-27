@@ -27,11 +27,25 @@ This is a simple email classification Flask app trained on Logistic Regression. 
 I began my python language learning sessions in june 2023, i was busy learning different parts of python only to end up forgetting because i was not applying the knowledge and this project is a remedy to that Challenge. I watched a couple of youtube videos and did some research on Chatgpt.  This is my first Machine learning Project and I just came to the realization that i can do a lot with the knowledge that i've been accumulating. let's get to it.  
 
 ### TECHNICAL ASPECT
+This project is divided into two part:
 
+Training a deep learning model using Keras. (Not covered in this repo. I'll update the link here once I make it public.)
+Building and hosting a Flask web app on Heroku.
+A user can choose image from a device or capture it using a pre-built camera.
+Used Amazon S3 Bucket to store the uploaded image and classification.
+Used CSRF Token to protect against CSRF attacks.
+Used Sentry to catch the exception on the back-end.
+After uploading the image, the classifications are displayed on a Bar Chart.
 
 ### INSTALLATION
-The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
-'pip install 
+The Code is written in Python 3.11.9. If you don't have Python installed you can find it [here](https://www.python.org/downloads/release/python-3119/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in your shell:
+'''
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install flask
+pip install pickle
+'''
 ### RUN
 ###DEPLOYMENT ON HEROKU
 ### PROJECT DIRECTORY TREE 
