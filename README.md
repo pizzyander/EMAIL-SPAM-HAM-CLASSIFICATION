@@ -29,13 +29,10 @@ I began my python language learning sessions in june 2023, i was busy learning d
 ### TECHNICAL ASPECT
 This project is divided into two part:
 
-Training a deep learning model using Keras. (Not covered in this repo. I'll update the link here once I make it public.)
-Building and hosting a Flask web app on Heroku.
-A user can choose image from a device or capture it using a pre-built camera.
-Used Amazon S3 Bucket to store the uploaded image and classification.
-Used CSRF Token to protect against CSRF attacks.
-Used Sentry to catch the exception on the back-end.
-After uploading the image, the classifications are displayed on a Bar Chart.
+* Training a deep learning model using LogisticRegression. (Not covered in this repo. I'll update the link here once I make it public.)
+* Building and hosting a Flask web app on Replit.
+* A user can copy email text from their email inbox to run a test on the trained model.
+* After uploading the email text, the classifications are displayed in text as 'SPAM' or 'HAM'.
 
 ### INSTALLATION
 The Code is written in Python 3.11.9. If you don't have Python installed you can find it [here](https://www.python.org/downloads/release/python-3119/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in your shell:
@@ -47,7 +44,7 @@ pip install flask
 pip install pickle
 '''
 ### RUN
-###DEPLOYMENT ON HEROKU
+
 ### PROJECT DIRECTORY TREE 
 '''
 project/  
